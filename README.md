@@ -2,13 +2,13 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](requirements-model.txt)
-![Paper: working paper v1](https://img.shields.io/badge/paper-working%20paper%20v1-lightgrey)
+[![Paper: working paper v1](https://img.shields.io/badge/paper-working%20paper%20v1-lightgrey)](https://doi.org/10.5281/zenodo.23437721)
 
 > Does the *wording* of questionnaire items, represented by sentence-embedding similarity, predict the covariance of item responses beyond scale membership? This repository holds the code for testing that question and for studying what such a model can and cannot identify.
 
 Wording enters a likelihood model of the response covariance as a fixed kernel, and the test is an item-label permutation null that reruns the whole fit. The question is therefore whether the kernel's item correspondence matters, not only whether two similarity matrices correlate.
 
-**Paper:** Mettu, A. (2026). *Item wording and the covariance of self-report items: a shape-alignment test, held-out items and an identification limit*. Working paper, version 1. Zenodo. https://doi.org/10.5281/zenodo.23437721
+**Paper:** Mettu, A. (2026). *Item wording and the covariance of self-report items: a shape-alignment test, held-out items and an identification limit*. Working paper, version 1. Zenodo. [https://doi.org/10.5281/zenodo.23437721](https://doi.org/10.5281/zenodo.23437721)
 
 
 ## What I found
