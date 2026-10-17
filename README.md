@@ -8,7 +8,7 @@
 
 Wording enters a likelihood model of the response covariance as a fixed kernel, and the test is an item-label permutation null that reruns the whole fit. The question is therefore whether the kernel's item correspondence matters, not only whether two similarity matrices correlate.
 
-**Paper:** Mettu, A. (2026). *Item wording and the covariance of self-report items: a shape-alignment test, held-out items and an identification limit*. Working paper, version 1. Zenodo (DOI added on release).
+**Paper:** Mettu, A. (2026). *Item wording and the covariance of self-report items: a shape-alignment test, held-out items and an identification limit*. Working paper, version 1. Zenodo. https://doi.org/10.5281/zenodo.23437721
 
 
 ## What I found
@@ -75,7 +75,7 @@ python3.12 -m venv .venv && .venv/bin/pip install -r requirements-model.txt
   title        = {Item wording and the covariance of self-report items: a shape-alignment test, held-out items and an identification limit},
   year         = {2026},
   howpublished = {Working paper, version 1},
-  note         = {Zenodo (DOI added on release)}
+  note         = {Zenodo. https://doi.org/10.5281/zenodo.23437721}
 }
 ```
 
