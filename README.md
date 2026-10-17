@@ -10,6 +10,25 @@ Wording enters a likelihood model of the response covariance as a fixed kernel, 
 
 **Paper:** Mettu, A. (2026). *Item wording and the covariance of self-report items: a shape-alignment test, held-out items and an identification limit*. Working paper, version 1. Zenodo (DOI added on release).
 
+
+## What I found
+
+Questionnaires ask about overlapping experiences in overlapping words, so I wanted to know: when items correlate, how much of that is the people answering, and how much is just the phrasing?
+
+I put the wording pattern directly into a statistical model of the DASS-42 answers (n = 34,583) and let it compete against the usual structure: a general factor, scale factors, surface features like item length and negation, and an agreement-style term. Then I scrambled which wording belongs to which item 100 times and refit the whole model each time. The real pairing beat all 100 scrambles, for three different text encoders. The wording pattern also predicts held-out items: hide 6 items and it still predicts how they will covary, better than every scramble.
+
+The most important finding is a negative one. From one dataset of this kind you cannot say how *much* of the shared covariance is wording: the wording level trades off exactly against the agreement-style term, so the "share explained by semantics" is not identifiable here. Claims that wording alone explains most questionnaire structure go beyond what this kind of data can show.
+
+What this is not: not a causal claim (items about co-occurring experiences may simply be written alike, and one cross-section cannot tell those apart), not a test of whether these scales measure what they claim to measure, and nothing clinical. Effect sizes are deliberately uncalibrated; the paper explains why.
+
+<p align="center">
+<img src="docs/fig1_heatmaps_stacked.png" alt="Three heatmaps over the 42 DASS items ordered D, A, S then position, on one colour scale from -0.8 to 0.8 with the diagonal blanked. Top: the empirical polychoric correlation matrix. Middle: the component aligned with wording similarity. Bottom: the residual component." width="320">
+<br>
+<em>Figure 1 of the working paper: what people answered (top), the part shaped like wording similarity (middle), and what is left over (bottom).</em>
+</p>
+
+Details, limits and the full argument are in the paper (citation below).
+
 ## Repository layout
 
 | Path | Contents |
