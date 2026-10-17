@@ -1,0 +1,75 @@
+{
+  "_doc": "Pinned public sources. sha256 is checked on every fetch; a mismatch is an error, never silently accepted. OSF sha256 values are the ones OSF publishes in its file API; openpsychometrics publishes none, so the value is the one observed on first fetch 2026-10-15. license_status is the observed record status, not a judgement: explicit-license | public-domain-statement | host-terms-no-project-license | no-explicit-license. public_output says what this repository distributes from the source: rows are never redistributed, and aggregates are rebuilt locally by the user.",
+  "files": [
+    {
+      "id": "dass_raw_zip",
+      "url": "https://openpsychometrics.org/_rawdata/DASS_data_21.02.19.zip",
+      "sha256": "38d1707cf1f9effec45c41f61c4fdc0ab245021da635a57a7f0e69edd965f3f5",
+      "license": "opp-raw-no-explicit-license",
+      "row_level": true,
+      "license_status": "no-explicit-license",
+      "permission_basis": "host page offers anonymous data for public download 'for general public edification'; no license or terms of use observed",
+      "public_output": "rows-never; aggregates-rebuilt-locally"
+    },
+    {
+      "id": "dass42_pdf",
+      "url": "https://www2.psy.unsw.edu.au/dass/Download%20files/Dass42.pdf",
+      "sha256": "a801db4a593578ba866172b64258d8887ea86e613ea99a270bd1672c1996e0e9",
+      "license": "dass-public-domain",
+      "row_level": false,
+      "license_status": "public-domain-statement",
+      "permission_basis": "UNSW DASS site: questionnaire in the public domain; forms may be copied without restriction, not modified or sold",
+      "public_output": "allowed-verbatim"
+    },
+    {
+      "id": "dass_scoring_template_pdf",
+      "url": "https://www2.psy.unsw.edu.au/dass/Download%20files/Dass_template.pdf",
+      "sha256": "5ceafc6731340b382bdd6eea256ea5f394dfe9897440615911f2cef84a977892",
+      "license": "dass-public-domain",
+      "row_level": false,
+      "license_status": "public-domain-statement",
+      "permission_basis": "UNSW DASS site: questionnaire in the public domain; forms may be copied without restriction, not modified or sold",
+      "public_output": "allowed-verbatim"
+    },
+    {
+      "id": "ipip300_dat",
+      "url": "https://osf.io/download/jdu2v/",
+      "sha256": "1bbb7189f5f0f2883bb4493f956cf639178c5c8ee95319fd3881f6d9d2f189a3",
+      "license": "osf-public-tou",
+      "row_level": true,
+      "license_status": "host-terms-no-project-license",
+      "permission_basis": "OSF node_license null; COS Terms of Use s5/s6 license use of Content marked public",
+      "public_output": "rows-never; aggregates-rebuilt-locally"
+    },
+    {
+      "id": "ipip300_layout_doc",
+      "url": "https://osf.io/download/2kfhe/",
+      "sha256": "b72ea04065dbc98c70ac69a6aa5bc58dd8896dcd33902b8d44930c58351cdb96",
+      "license": "osf-public-tou",
+      "row_level": false,
+      "license_status": "host-terms-no-project-license",
+      "permission_basis": "OSF node_license null; COS Terms of Use s5/s6 license use of Content marked public",
+      "public_output": "rows-never; aggregates-rebuilt-locally"
+    },
+    {
+      "id": "ipipneo_itemkey_xls",
+      "url": "https://osf.io/download/yk3fd/",
+      "sha256": "d3f962e46b412151a2df571ebb5902bc0967c864ec5e05ab0a46d254dc0b52a0",
+      "license": "osf-public-tou",
+      "row_level": false,
+      "license_status": "host-terms-no-project-license",
+      "permission_basis": "OSF node_license null; COS Terms of Use s5/s6 license use of Content marked public; IPIP item text itself: ipip.ori.org public-domain statement",
+      "public_output": "allowed-verbatim (item text, public domain); file itself under host terms"
+    },
+    {
+      "id": "ipipneo300_questionnaire_docx",
+      "url": "https://osf.io/download/xzje4/",
+      "sha256": "eedb88265b342ff0c604b640c61dd0427ba639db969aa6c52517063d680b375d",
+      "license": "osf-public-tou",
+      "row_level": false,
+      "license_status": "host-terms-no-project-license",
+      "permission_basis": "OSF node_license null; COS Terms of Use s5/s6 license use of Content marked public; IPIP item text itself: ipip.ori.org public-domain statement",
+      "public_output": "allowed-verbatim (item text, public domain); file itself under host terms"
+    }
+  ]
+}

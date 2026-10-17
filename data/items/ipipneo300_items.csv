@@ -1,0 +1,301 @@
+item_id,position,data_column,domain,facet_code,facet_name,key,ipip_neo_120_position,text,text_source,secondary_match
+IPIP_I001,1,I1,N,N1,Anxiety,1,1,Worry about things.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I002,2,I2,E,E1,Friendliness,1,2,Make friends easily.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I003,3,I3,O,O1,Imagination,1,3,Have a vivid imagination.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I004,4,I4,A,A1,Trust,1,4,Trust others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I005,5,I5,C,C1,Self-Efficacy,1,5,Complete tasks successfully.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I006,6,I6,N,N2,Anger,1,6,Get angry easily.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I007,7,I7,E,E2,Gregariousness,1,7,Love large parties.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I008,8,I8,O,O2,Artistic Interests,1,8,Believe in the importance of art.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I009,9,I9,A,A2,Morality,1,,Would never cheat on my taxes.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I010,10,I10,C,C2,Orderliness,1,,Like order.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I011,11,I11,N,N3,Depression,1,11,Often feel blue.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I012,12,I12,E,E3,Assertiveness,1,12,Take charge.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I013,13,I13,O,O3,Emotionality,1,13,Experience my emotions intensely.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I014,14,I14,A,A3,Altruism,1,,Make people feel welcome.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I015,15,I15,C,C3,Dutifulness,1,,Try to follow the rules.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I016,16,I16,N,N4,Self-Consciousness,1,,Am easily intimidated.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I017,17,I17,E,E4,Activity Level,1,17,Am always busy.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I018,18,I18,O,O4,Adventurousness,1,18,Prefer variety to routine.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I019,19,I19,A,A4,Cooperation,1,,Am easy to satisfy.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I020,20,I20,C,C4,Achievement-Striving,1,,Go straight for the goal.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I021,21,I21,N,N5,Immoderation,1,,Often eat too much.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I022,22,I22,E,E5,Excitement-Seeking,1,22,Love excitement.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I023,23,I23,O,O5,Intellect,1,,Like to solve complex problems.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I024,24,I24,A,A5,Modesty,1,,Dislike being the center of attention.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I025,25,I25,C,C5,Self-Discipline,1,,Get chores done right away.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I026,26,I26,N,N6,Vulnerability,1,26,Panic easily.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I027,27,I27,E,E6,Cheerfulness,1,27,Radiate joy.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I028,28,I28,O,O6,Liberalism,1,28,Tend to vote for liberal political candidates.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I029,29,I29,A,A6,Sympathy,1,29,Sympathize with the homeless.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I030,30,I30,C,C6,Cautiousness,1,,Avoid mistakes.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I031,31,I31,N,N1,Anxiety,1,31,Fear for the worst.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I032,32,I32,E,E1,Friendliness,1,,Warm up quickly to others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I033,33,I33,O,O1,Imagination,1,33,Enjoy wild flights of fantasy.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I034,34,I34,A,A1,Trust,1,34,Believe that others have good intentions.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I035,35,I35,C,C1,Self-Efficacy,1,35,Excel in what I do.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I036,36,I36,N,N2,Anger,1,36,Get irritated easily.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I037,37,I37,E,E2,Gregariousness,1,37,Talk to a lot of different people at parties.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I038,38,I38,O,O2,Artistic Interests,1,,Like music.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I039,39,I39,A,A2,Morality,1,,Stick to the rules.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I040,40,I40,C,C2,Orderliness,1,10,Like to tidy up.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I041,41,I41,N,N3,Depression,1,41,Dislike myself.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I042,42,I42,E,E3,Assertiveness,1,42,Try to lead others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I043,43,I43,O,O3,Emotionality,1,43,Feel others' emotions.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I044,44,I44,A,A3,Altruism,1,,Anticipate the needs of others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I045,45,I45,C,C3,Dutifulness,1,15,Keep my promises.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I046,46,I46,N,N4,Self-Consciousness,1,,Am afraid that I will do the wrong thing.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I047,47,I47,E,E4,Activity Level,1,47,Am always on the go.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I048,48,I48,O,O4,Adventurousness,1,,Like to visit new places.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I049,49,I49,A,A4,Cooperation,1,,Can't stand confrontations.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I050,50,I50,C,C4,Achievement-Striving,1,20,Work hard.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I051,51,I51,N,N5,Immoderation,1,,Don't know why I do some of the things I do.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I052,52,I52,E,E5,Excitement-Seeking,1,52,Seek adventure.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I053,53,I53,O,O5,Intellect,1,23,Love to read challenging material.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I054,54,I54,A,A5,Modesty,1,,Dislike talking about myself.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I055,55,I55,C,C5,Self-Discipline,1,25,Am always prepared.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I056,56,I56,N,N6,Vulnerability,1,56,Become overwhelmed by events.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I057,57,I57,E,E6,Cheerfulness,1,57,Have a lot of fun.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I058,58,I58,O,O6,Liberalism,1,58,Believe that there is no absolute right or wrong.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I059,59,I59,A,A6,Sympathy,1,59,Feel sympathy for those who are worse off than myself.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I060,60,I60,C,C6,Cautiousness,1,,Choose my words with care.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I061,61,I61,N,N1,Anxiety,1,61,Am afraid of many things.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I062,62,I62,E,E1,Friendliness,1,32,Feel comfortable around people.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I063,63,I63,O,O1,Imagination,1,63,Love to daydream.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I064,64,I64,A,A1,Trust,1,64,Trust what people say.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I065,65,I65,C,C1,Self-Efficacy,1,65,Handle tasks smoothly.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I066,66,I66,N,N2,Anger,1,,Get upset easily.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I067,67,I67,E,E2,Gregariousness,1,,Enjoy being part of a group.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I068,68,I68,O,O2,Artistic Interests,1,38,See beauty in things that others might not notice.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I069,69,I69,A,A2,Morality,-1,,Use flattery to get ahead.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I070,70,I70,C,C2,Orderliness,1,,"Want everything to be ""just right.""",OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I071,71,I71,N,N3,Depression,1,71,Am often down in the dumps.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I072,72,I72,E,E3,Assertiveness,1,,Can talk others into doing things.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I073,73,I73,O,O3,Emotionality,1,,Am passionate about causes.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I074,74,I74,A,A3,Altruism,1,14,Love to help others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I075,75,I75,C,C3,Dutifulness,1,,Pay my bills on time.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I076,76,I76,N,N4,Self-Consciousness,1,16,Find it difficult to approach others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I077,77,I77,E,E4,Activity Level,1,77,Do a lot in my spare time.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I078,78,I78,O,O4,Adventurousness,1,,Interested in many things.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I079,79,I79,A,A4,Cooperation,1,,Hate to seem pushy.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I080,80,I80,C,C4,Achievement-Striving,1,,Turn plans into actions.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I081,81,I81,N,N5,Immoderation,1,,Do things I later regret.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I082,82,I82,E,E5,Excitement-Seeking,1,,Love action.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I083,83,I83,O,O5,Intellect,1,,Have a rich vocabulary.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I084,84,I84,A,A5,Modesty,1,,Consider myself an average person.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I085,85,I85,C,C5,Self-Discipline,1,,Start tasks right away.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I086,86,I86,N,N6,Vulnerability,1,86,Feel that I'm unable to deal with things.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I087,87,I87,E,E6,Cheerfulness,1,,Express childlike joy.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I088,88,I88,O,O6,Liberalism,1,,Believe that criminals should receive help rather than punishment.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I089,89,I89,A,A6,Sympathy,1,,Value cooperation over competition.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I090,90,I90,C,C6,Cautiousness,1,,Stick to my chosen path.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I091,91,I91,N,N1,Anxiety,1,91,Get stressed out easily.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I092,92,I92,E,E1,Friendliness,1,,Act comfortably with others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I093,93,I93,O,O1,Imagination,1,93,Like to get lost in thought.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I094,94,I94,A,A1,Trust,1,,Believe that people are basically moral.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I095,95,I95,C,C1,Self-Efficacy,1,,Am sure of my ground.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I096,96,I96,N,N2,Anger,1,,Am often in a bad mood.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I097,97,I97,E,E2,Gregariousness,1,,Involve others in what I am doing.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I098,98,I98,O,O2,Artistic Interests,1,,Love flowers.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I099,99,I99,A,A2,Morality,-1,9,Use others for my own ends.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I100,100,I100,C,C2,Orderliness,1,,Love order and regularity.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I101,101,I101,N,N3,Depression,1,,Have a low opinion of myself.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I102,102,I102,E,E3,Assertiveness,1,,Seek to influence others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I103,103,I103,O,O3,Emotionality,1,,Enjoy examining myself and my life.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I104,104,I104,A,A3,Altruism,1,44,Am concerned about others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I105,105,I105,C,C3,Dutifulness,1,45,Tell the truth.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I106,106,I106,N,N4,Self-Consciousness,1,46,Am afraid to draw attention to myself.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I107,107,I107,E,E4,Activity Level,1,,Can manage many things at the same time.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I108,108,I108,O,O4,Adventurousness,1,,Like to begin new things.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I109,109,I109,A,A4,Cooperation,-1,,Have a sharp tongue.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I110,110,I110,C,C4,Achievement-Striving,1,,Plunge into tasks with all my heart.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I111,111,I111,N,N5,Immoderation,1,21,Go on binges.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I112,112,I112,E,E5,Excitement-Seeking,1,,Enjoy being part of a loud crowd.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I113,113,I113,O,O5,Intellect,1,,Can handle a lot of information.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I114,114,I114,A,A5,Modesty,1,,Seldom toot my own horn.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I115,115,I115,C,C5,Self-Discipline,1,,Get to work at once.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I116,116,I116,N,N6,Vulnerability,1,,Can't make up my mind.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I117,117,I117,E,E6,Cheerfulness,1,,Laugh my way through life.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I118,118,I118,O,O6,Liberalism,-1,,Believe in one true religion.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I119,119,I119,A,A6,Sympathy,1,,Suffer from others' sorrows.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I120,120,I120,C,C6,Cautiousness,-1,30,Jump into things without thinking.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I121,121,I121,N,N1,Anxiety,1,,Get caught up in my problems.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I122,122,I122,E,E1,Friendliness,1,,Cheer people up.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I123,123,I123,O,O1,Imagination,1,,Indulge in my fantasies.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I124,124,I124,A,A1,Trust,1,,Believe in human goodness.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I125,125,I125,C,C1,Self-Efficacy,1,,Come up with good solutions.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I126,126,I126,N,N2,Anger,1,66,Lose my temper.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I127,127,I127,E,E2,Gregariousness,1,,Love surprise parties.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I128,128,I128,O,O2,Artistic Interests,1,,Enjoy the beauty of nature.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I129,129,I129,A,A2,Morality,-1,,Know how to get around the rules.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I130,130,I130,C,C2,Orderliness,1,,Do things according to a plan.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I131,131,I131,N,N3,Depression,1,,Have frequent mood swings.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I132,132,I132,E,E3,Assertiveness,1,72,Take control of things.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I133,133,I133,O,O3,Emotionality,1,,Try to understand myself.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I134,134,I134,A,A3,Altruism,1,,Have a good word for everyone.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I135,135,I135,C,C3,Dutifulness,1,,Listen to my conscience.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I136,136,I136,N,N4,Self-Consciousness,1,76,Only feel comfortable with friends.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I137,137,I137,E,E4,Activity Level,1,,React quickly.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I138,138,I138,O,O4,Adventurousness,-1,48,Prefer to stick with things that I know.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I139,139,I139,A,A4,Cooperation,-1,,Contradict others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I140,140,I140,C,C4,Achievement-Striving,1,50,Do more than what's expected of me.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I141,141,I141,N,N5,Immoderation,1,,Love to eat.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I142,142,I142,E,E5,Excitement-Seeking,1,82,Enjoy being reckless.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I143,143,I143,O,O5,Intellect,1,,Enjoy thinking about things.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I144,144,I144,A,A5,Modesty,-1,24,Believe that I am better than others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I145,145,I145,C,C5,Self-Discipline,1,55,Carry out my plans.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I146,146,I146,N,N6,Vulnerability,1,,Get overwhelmed by emotions.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I147,147,I147,E,E6,Cheerfulness,1,87,Love life.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I148,148,I148,O,O6,Liberalism,-1,88,Tend to vote for conservative political candidates.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I149,149,I149,A,A6,Sympathy,-1,89,Am not interested in other people's problems.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I150,150,I150,C,C6,Cautiousness,-1,60,Make rash decisions.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I151,151,I151,N,N1,Anxiety,-1,,Am not easily bothered by things.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I152,152,I152,E,E1,Friendliness,-1,,Am hard to get to know.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I153,153,I153,O,O1,Imagination,1,,Spend time reflecting on things.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I154,154,I154,A,A1,Trust,1,,Think that all will be well.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I155,155,I155,C,C1,Self-Efficacy,1,95,Know how to get things done.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I156,156,I156,N,N2,Anger,-1,,Rarely get irritated.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I157,157,I157,E,E2,Gregariousness,-1,67,Prefer to be alone.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I158,158,I158,O,O2,Artistic Interests,-1,,Do not like art.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I159,159,I159,A,A2,Morality,-1,39,Cheat to get ahead.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I160,160,I160,C,C2,Orderliness,-1,40,Often forget to put things back in their proper place.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I161,161,I161,N,N3,Depression,1,,Feel desperate.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I162,162,I162,E,E3,Assertiveness,-1,102,Wait for others to lead the way.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I163,163,I163,O,O3,Emotionality,-1,,Seldom get emotional.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I164,164,I164,A,A3,Altruism,-1,,Look down on others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I165,165,I165,C,C3,Dutifulness,-1,75,Break rules.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I166,166,I166,N,N4,Self-Consciousness,1,,Stumble over my words.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I167,167,I167,E,E4,Activity Level,-1,107,Like to take it easy.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I168,168,I168,O,O4,Adventurousness,-1,78,Dislike changes.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I169,169,I169,A,A4,Cooperation,-1,19,Love a good fight.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I170,170,I170,C,C4,Achievement-Striving,1,,Set high standards for myself and others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I171,171,I171,N,N5,Immoderation,-1,51,Rarely overindulge.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I172,172,I172,E,E5,Excitement-Seeking,1,112,Act wild and crazy.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I173,173,I173,O,O5,Intellect,-1,,Am not interested in abstract ideas.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I174,174,I174,A,A5,Modesty,-1,54,Think highly of myself.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I175,175,I175,C,C5,Self-Discipline,-1,,Find it difficult to get down to work.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I176,176,I176,N,N6,Vulnerability,-1,116,Remain calm under pressure.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I177,177,I177,E,E6,Cheerfulness,1,117,Look at the bright side of life.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I178,178,I178,O,O6,Liberalism,-1,,Believe that too much tax money goes to support artists.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I179,179,I179,A,A6,Sympathy,-1,,Tend to dislike soft-hearted people.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I180,180,I180,C,C6,Cautiousness,-1,,Like to act on a whim.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I181,181,I181,N,N1,Anxiety,-1,,Am relaxed most of the time.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I182,182,I182,E,E1,Friendliness,-1,,Often feel uncomfortable around others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I183,183,I183,O,O1,Imagination,-1,,Seldom daydream.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I184,184,I184,A,A1,Trust,-1,94,Distrust people.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I185,185,I185,C,C1,Self-Efficacy,-1,,Misjudge situations.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I186,186,I186,N,N2,Anger,-1,,Seldom get mad.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I187,187,I187,E,E2,Gregariousness,-1,,Want to be left alone.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I188,188,I188,O,O2,Artistic Interests,-1,68,Do not like poetry.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I189,189,I189,A,A2,Morality,-1,,Put people under pressure.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I190,190,I190,C,C2,Orderliness,-1,70,Leave a mess in my room.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I191,191,I191,N,N3,Depression,1,,Feel that my life lacks direction.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I192,192,I192,E,E3,Assertiveness,-1,,Keep in the background.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I193,193,I193,O,O3,Emotionality,-1,,Am not easily affected by my emotions.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I194,194,I194,A,A3,Altruism,-1,74,Am indifferent to the feelings of others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I195,195,I195,C,C3,Dutifulness,-1,105,Break my promises.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I196,196,I196,N,N4,Self-Consciousness,-1,,Am not embarrassed easily.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I197,197,I197,E,E4,Activity Level,-1,,Like to take my time.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I198,198,I198,O,O4,Adventurousness,-1,,Don't like the idea of change.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I199,199,I199,A,A4,Cooperation,-1,49,Yell at people.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I200,200,I200,C,C4,Achievement-Striving,1,,Demand quality.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I201,201,I201,N,N5,Immoderation,-1,81,Easily resist temptations.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I202,202,I202,E,E5,Excitement-Seeking,1,,Willing to try anything once.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I203,203,I203,O,O5,Intellect,-1,53,Avoid philosophical discussions.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I204,204,I204,A,A5,Modesty,-1,84,Have a high opinion of myself.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I205,205,I205,C,C5,Self-Discipline,-1,85,Waste my time.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I206,206,I206,N,N6,Vulnerability,-1,,Can handle complex problems.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I207,207,I207,E,E6,Cheerfulness,1,,Laugh aloud.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I208,208,I208,O,O6,Liberalism,-1,,Believe laws should be strictly enforced.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I209,209,I209,A,A6,Sympathy,-1,,Believe in an eye for an eye.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I210,210,I210,C,C6,Cautiousness,-1,90,Rush into things.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I211,211,I211,N,N1,Anxiety,-1,,Am not easily disturbed by events.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I212,212,I212,E,E1,Friendliness,-1,62,Avoid contacts with others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I213,213,I213,O,O1,Imagination,-1,,Do not have a good imagination.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I214,214,I214,A,A1,Trust,-1,,Suspect hidden motives in others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I215,215,I215,C,C1,Self-Efficacy,-1,,Don't understand things.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I216,216,I216,N,N2,Anger,-1,96,Am not easily annoyed.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I217,217,I217,E,E2,Gregariousness,-1,,Don't like crowded events.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I218,218,I218,O,O2,Artistic Interests,-1,98,Do not enjoy going to art museums.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I219,219,I219,A,A2,Morality,-1,,Pretend to be concerned for others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I220,220,I220,C,C2,Orderliness,-1,100,Leave my belongings around.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I221,221,I221,N,N3,Depression,-1,,Seldom feel blue.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I222,222,I222,E,E3,Assertiveness,-1,,Have little to say.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I223,223,I223,O,O3,Emotionality,-1,73,Rarely notice my emotional reactions.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I224,224,I224,A,A3,Altruism,-1,,Make people feel uncomfortable.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I225,225,I225,C,C3,Dutifulness,-1,,Get others to do my duties.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I226,226,I226,N,N4,Self-Consciousness,-1,,Am comfortable in unfamiliar situations.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I227,227,I227,E,E4,Activity Level,-1,,Like a leisurely lifestyle.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I228,228,I228,O,O4,Adventurousness,-1,,Am a creature of habit.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I229,229,I229,A,A4,Cooperation,-1,79,Insult people.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I230,230,I230,C,C4,Achievement-Striving,-1,,Am not highly motivated to succeed.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I231,231,I231,N,N5,Immoderation,-1,111,Am able to control my cravings.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I232,232,I232,E,E5,Excitement-Seeking,1,,Seek danger.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I233,233,I233,O,O5,Intellect,-1,83,Have difficulty understanding abstract ideas.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I234,234,I234,A,A5,Modesty,-1,,Know the answers to many questions.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I235,235,I235,C,C5,Self-Discipline,-1,,Need a push to get started.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I236,236,I236,N,N6,Vulnerability,-1,,Know how to cope.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I237,237,I237,E,E6,Cheerfulness,1,,Amuse my friends.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I238,238,I238,O,O6,Liberalism,-1,,Believe that we coddle criminals too much.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I239,239,I239,A,A6,Sympathy,-1,119,Try not to think about the needy.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I240,240,I240,C,C6,Cautiousness,-1,,Do crazy things.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I241,241,I241,N,N1,Anxiety,-1,,Don't worry about things that have already happened.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I242,242,I242,E,E1,Friendliness,-1,,Am not really interested in others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I243,243,I243,O,O1,Imagination,-1,,Seldom get lost in thought.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I244,244,I244,A,A1,Trust,-1,,Am wary of others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I245,245,I245,C,C1,Self-Efficacy,-1,,Have little to contribute.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I246,246,I246,N,N2,Anger,-1,,Keep my cool.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I247,247,I247,E,E2,Gregariousness,-1,97,Avoid crowds.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I248,248,I248,O,O2,Artistic Interests,-1,,Do not like concerts.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I249,249,I249,A,A2,Morality,-1,69,Take advantage of others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I250,250,I250,C,C2,Orderliness,-1,,Am not bothered by messy people.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I251,251,I251,N,N3,Depression,-1,101,Feel comfortable with myself.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I252,252,I252,E,E3,Assertiveness,-1,,Don't like to draw attention to myself.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I253,253,I253,O,O3,Emotionality,-1,,Experience very few emotional highs and lows.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I254,254,I254,A,A3,Altruism,-1,,Turn my back on others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I255,255,I255,C,C3,Dutifulness,-1,,Do the opposite of what is asked.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I256,256,I256,N,N4,Self-Consciousness,-1,106,Am not bothered by difficult social situations.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I257,257,I257,E,E4,Activity Level,-1,,Let things proceed at their own pace.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I258,258,I258,O,O4,Adventurousness,-1,,Dislike new foods.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I259,259,I259,A,A4,Cooperation,-1,109,Get back at others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I260,260,I260,C,C4,Achievement-Striving,-1,80,Do just enough work to get by.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I261,261,I261,N,N5,Immoderation,-1,,Never spend more than I can afford.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I262,262,I262,E,E5,Excitement-Seeking,-1,,Would never go hang gliding or bungee jumping.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I263,263,I263,O,O5,Intellect,-1,113,Am not interested in theoretical discussions.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I264,264,I264,A,A5,Modesty,-1,114,Boast about my virtues.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I265,265,I265,C,C5,Self-Discipline,-1,115,Have difficulty starting tasks.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I266,266,I266,N,N6,Vulnerability,-1,,Readily overcome setbacks.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I267,267,I267,E,E6,Cheerfulness,-1,,Am not easily amused.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I268,268,I268,O,O6,Liberalism,-1,118,Believe that we should be tough on crime.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I269,269,I269,A,A6,Sympathy,-1,,Believe people should fend for themselves.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I270,270,I270,C,C6,Cautiousness,-1,120,Act without thinking.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I271,271,I271,N,N1,Anxiety,-1,,Adapt easily to new situations.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I272,272,I272,E,E1,Friendliness,-1,92,Keep others at a distance.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I273,273,I273,O,O1,Imagination,-1,,Have difficulty imagining things.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I274,274,I274,A,A1,Trust,-1,,Believe that people are essentially evil.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I275,275,I275,C,C1,Self-Efficacy,-1,,Don't see the consequences of things.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I276,276,I276,N,N2,Anger,-1,,Rarely complain.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I277,277,I277,E,E2,Gregariousness,-1,,Seek quiet.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I278,278,I278,O,O2,Artistic Interests,-1,,Do not enjoy watching dance performances.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I279,279,I279,A,A2,Morality,-1,99,Obstruct others' plans.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I280,280,I280,C,C2,Orderliness,-1,,Am not bothered by disorder.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I281,281,I281,N,N3,Depression,-1,,Am very pleased with myself.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I282,282,I282,E,E3,Assertiveness,-1,,Hold back my opinions.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I283,283,I283,O,O3,Emotionality,-1,103,Don't understand people who get emotional.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I284,284,I284,A,A3,Altruism,-1,104,Take no time for others.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I285,285,I285,C,C3,Dutifulness,-1,,Misrepresent the facts.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I286,286,I286,N,N4,Self-Consciousness,-1,,Am able to stand up for myself.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I287,287,I287,E,E4,Activity Level,-1,,React slowly.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I288,288,I288,O,O4,Adventurousness,-1,108,Am attached to conventional ways.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I289,289,I289,A,A4,Cooperation,-1,,Hold a grudge.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I290,290,I290,C,C4,Achievement-Striving,-1,110,Put little time and effort into my work.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I291,291,I291,N,N5,Immoderation,-1,,Never splurge.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I292,292,I292,E,E5,Excitement-Seeking,-1,,Dislike loud music.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I293,293,I293,O,O5,Intellect,-1,,Avoid difficult reading material.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I294,294,I294,A,A5,Modesty,-1,,Make myself the center of attention.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I295,295,I295,C,C5,Self-Discipline,-1,,Postpone decisions.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I296,296,I296,N,N6,Vulnerability,-1,,Am calm even in tense situations.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I297,297,I297,E,E6,Cheerfulness,-1,,Seldom joke around.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I298,298,I298,O,O6,Liberalism,-1,,Like to stand during the national anthem.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I299,299,I299,A,A6,Sympathy,-1,,Can't stand weak people.,OSF ycvdk IPIP-NEO-ItemKey.xls,True
+IPIP_I300,300,I300,C,C6,Cautiousness,-1,,Often make last-minute plans.,OSF ycvdk IPIP-NEO-ItemKey.xls,True

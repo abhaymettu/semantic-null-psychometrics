@@ -1,0 +1,163 @@
+{
+  "dataset": "synthetic",
+  "counts": {
+    "n_rows": 2000
+  },
+  "variants": {
+    "primary": {
+      "n": 2000,
+      "pair_n_min": 2000,
+      "pair_n_max": 2000,
+      "pearson": {
+        "min_eigenvalue": 0.461709,
+        "mapping_check": {
+          "group": "scale",
+          "items_most_correlated_with_own_group": 12,
+          "items_failing": [],
+          "negative_within_group_keyed_pairs": 0,
+          "mean_within_group_keyed_r": 0.3653,
+          "offset_falsification": {
+            "1": {
+              "mean_within_group_keyed_r": 0.2843,
+              "negative_within_group_keyed_pairs": 0
+            },
+            "2": {
+              "mean_within_group_keyed_r": 0.2468,
+              "negative_within_group_keyed_pairs": 0
+            },
+            "5": {
+              "mean_within_group_keyed_r": 0.3074,
+              "negative_within_group_keyed_pairs": 0
+            },
+            "30": {
+              "mean_within_group_keyed_r": 0.3653,
+              "negative_within_group_keyed_pairs": 0
+            },
+            "-1": {
+              "mean_within_group_keyed_r": 0.3074,
+              "negative_within_group_keyed_pairs": 0
+            },
+            "-30": {
+              "mean_within_group_keyed_r": 0.3653,
+              "negative_within_group_keyed_pairs": 0
+            }
+          }
+        }
+      },
+      "polychoric": {
+        "min_eigenvalue": 0.385594,
+        "mapping_check": {
+          "group": "scale",
+          "items_most_correlated_with_own_group": 12,
+          "items_failing": [],
+          "negative_within_group_keyed_pairs": 0,
+          "mean_within_group_keyed_r": 0.4233,
+          "offset_falsification": {
+            "1": {
+              "mean_within_group_keyed_r": 0.3316,
+              "negative_within_group_keyed_pairs": 0
+            },
+            "2": {
+              "mean_within_group_keyed_r": 0.2882,
+              "negative_within_group_keyed_pairs": 0
+            },
+            "5": {
+              "mean_within_group_keyed_r": 0.3562,
+              "negative_within_group_keyed_pairs": 0
+            },
+            "30": {
+              "mean_within_group_keyed_r": 0.4233,
+              "negative_within_group_keyed_pairs": 0
+            },
+            "-1": {
+              "mean_within_group_keyed_r": 0.3562,
+              "negative_within_group_keyed_pairs": 0
+            },
+            "-30": {
+              "mean_within_group_keyed_r": 0.4233,
+              "negative_within_group_keyed_pairs": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "primary_variant": "primary",
+  "generator": {
+    "seed": 20261015,
+    "loadings": [
+      [
+        0.5,
+        0.0
+      ],
+      [
+        0.56,
+        0.0
+      ],
+      [
+        0.62,
+        0.0
+      ],
+      [
+        0.68,
+        0.0
+      ],
+      [
+        0.74,
+        0.0
+      ],
+      [
+        0.8,
+        0.0
+      ],
+      [
+        0.0,
+        0.5
+      ],
+      [
+        0.0,
+        0.56
+      ],
+      [
+        0.0,
+        0.62
+      ],
+      [
+        0.0,
+        0.68
+      ],
+      [
+        0.0,
+        0.74
+      ],
+      [
+        0.0,
+        0.8
+      ]
+    ],
+    "factor_corr": [
+      [
+        1.0,
+        0.4
+      ],
+      [
+        0.4,
+        1.0
+      ]
+    ],
+    "cuts": [
+      -0.3,
+      0.6,
+      1.4
+    ]
+  },
+  "sha256": {
+    "synthetic_items.csv": "fa6865cdd90da8f23d21bc9adc720959376f481f49fe11254ea7621feeb43fd6",
+    "synthetic_missingness.csv": "30cf3ad595ae5cceadebb5c0da17d98f3427d642469db591068ead164aaee5cb",
+    "synthetic_population_corr.csv": "6e6b0264e3e3b6f392514a5f85a5364f5b12669c15991f1fdc443ccd966d487b",
+    "synthetic_primary_item_stats.csv": "02c87de36b62ac20c86f819c25612ceecc1f5dc57a9636934582378b9e0b23be",
+    "synthetic_primary_pearson.csv": "c84315852ebfeba62fa0f6bf2ae6abd041979267fba27247cf724426d2dc1acf",
+    "synthetic_primary_polychoric.csv": "c84212aeb8cc12e9769bb0eca13a231a6c4fc36e9e90fd9f6bba6a4f68741312",
+    "synthetic_responses.csv": "aa5205575ae596ec2890c4bb3ab1c676efc6164152f15da01459c4da462e4faa"
+  }
+}

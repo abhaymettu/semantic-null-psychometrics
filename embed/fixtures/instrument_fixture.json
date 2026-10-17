@@ -1,0 +1,5 @@
+{
+ "_note": "SYNTHETIC FIXTURE for pipeline tests. Not text from DASS, IPIP or any published instrument.",
+ "instruction": "Read each statement and choose how well it describes you.",
+ "choices": ["Not at all", "A little", "Quite a lot", "Very much"]
+}

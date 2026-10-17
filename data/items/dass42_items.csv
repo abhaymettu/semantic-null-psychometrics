@@ -1,0 +1,43 @@
+item_id,position,data_column,scale,key,text,text_source,secondary_match,secondary_text
+DASS_Q01,1,Q1A,S,1,I found myself getting upset by quite trivial things,UNSW Dass42.pdf,True,I found myself getting upset by quite trivial things
+DASS_Q02,2,Q2A,A,1,I was aware of dryness of my mouth,UNSW Dass42.pdf,True,I was aware of dryness of my mouth
+DASS_Q03,3,Q3A,D,1,I couldn't seem to experience any positive feeling at all,UNSW Dass42.pdf,True,I couldn't seem to experience any positive feeling at all
+DASS_Q04,4,Q4A,A,1,"I experienced breathing difficulty (eg, excessively rapid breathing, breathlessness in the absence of physical exertion)",UNSW Dass42.pdf,True,"I experienced breathing difficulty (eg, excessively rapid breathing, breathlessness in the absence of physical exertion)"
+DASS_Q05,5,Q5A,D,1,I just couldn't seem to get going,UNSW Dass42.pdf,True,I just couldn't seem to get going
+DASS_Q06,6,Q6A,S,1,I tended to over-react to situations,UNSW Dass42.pdf,True,I tended to over-react to situations
+DASS_Q07,7,Q7A,A,1,"I had a feeling of shakiness (eg, legs going to give way)",UNSW Dass42.pdf,True,"I had a feeling of shakiness (eg, legs going to give way)"
+DASS_Q08,8,Q8A,S,1,I found it difficult to relax,UNSW Dass42.pdf,True,I found it difficult to relax
+DASS_Q09,9,Q9A,A,1,I found myself in situations that made me so anxious I was most relieved when they ended,UNSW Dass42.pdf,True,I found myself in situations that made me so anxious I was most relieved when they ended
+DASS_Q10,10,Q10A,D,1,I felt that I had nothing to look forward to,UNSW Dass42.pdf,True,I felt that I had nothing to look forward to
+DASS_Q11,11,Q11A,S,1,I found myself getting upset rather easily,UNSW Dass42.pdf,True,I found myself getting upset rather easily
+DASS_Q12,12,Q12A,S,1,I felt that I was using a lot of nervous energy,UNSW Dass42.pdf,True,I felt that I was using a lot of nervous energy
+DASS_Q13,13,Q13A,D,1,I felt sad and depressed,UNSW Dass42.pdf,True,I felt sad and depressed
+DASS_Q14,14,Q14A,S,1,"I found myself getting impatient when I was delayed in any way (eg, elevators, traffic lights, being kept waiting)",UNSW Dass42.pdf,True,"I found myself getting impatient when I was delayed in any way (eg, elevators, traffic lights, being kept waiting)"
+DASS_Q15,15,Q15A,A,1,I had a feeling of faintness,UNSW Dass42.pdf,True,I had a feeling of faintness
+DASS_Q16,16,Q16A,D,1,I felt that I had lost interest in just about everything,UNSW Dass42.pdf,True,I felt that I had lost interest in just about everything
+DASS_Q17,17,Q17A,D,1,I felt I wasn't worth much as a person,UNSW Dass42.pdf,True,I felt I wasn't worth much as a person
+DASS_Q18,18,Q18A,S,1,I felt that I was rather touchy,UNSW Dass42.pdf,True,I felt that I was rather touchy
+DASS_Q19,19,Q19A,A,1,"I perspired noticeably (eg, hands sweaty) in the absence of high temperatures or physical exertion",UNSW Dass42.pdf,True,"I perspired noticeably (eg, hands sweaty) in the absence of high temperatures or physical exertion"
+DASS_Q20,20,Q20A,A,1,I felt scared without any good reason,UNSW Dass42.pdf,True,I felt scared without any good reason
+DASS_Q21,21,Q21A,D,1,I felt that life wasn't worthwhile,UNSW Dass42.pdf,True,I felt that life wasn't worthwhile
+DASS_Q22,22,Q22A,S,1,I found it hard to wind down,UNSW Dass42.pdf,True,I found it hard to wind down
+DASS_Q23,23,Q23A,A,1,I had difficulty in swallowing,UNSW Dass42.pdf,True,I had difficulty in swallowing
+DASS_Q24,24,Q24A,D,1,I couldn't seem to get any enjoyment out of the things I did,UNSW Dass42.pdf,True,I couldn't seem to get any enjoyment out of the things I did
+DASS_Q25,25,Q25A,A,1,"I was aware of the action of my heart in the absence of physical exertion (eg, sense of heart rate increase, heart missing a beat)",UNSW Dass42.pdf,True,"I was aware of the action of my heart in the absence of physical exertion (eg, sense of heart rate increase, heart missing a beat)"
+DASS_Q26,26,Q26A,D,1,I felt down-hearted and blue,UNSW Dass42.pdf,True,I felt down-hearted and blue
+DASS_Q27,27,Q27A,S,1,I found that I was very irritable,UNSW Dass42.pdf,True,I found that I was very irritable
+DASS_Q28,28,Q28A,A,1,I felt I was close to panic,UNSW Dass42.pdf,True,I felt I was close to panic
+DASS_Q29,29,Q29A,S,1,I found it hard to calm down after something upset me,UNSW Dass42.pdf,True,I found it hard to calm down after something upset me
+DASS_Q30,30,Q30A,A,1,"I feared that I would be ""thrown"" by some trivial but unfamiliar task",UNSW Dass42.pdf,True,"I feared that I would be ""thrown"" by some trivial but unfamiliar task"
+DASS_Q31,31,Q31A,D,1,I was unable to become enthusiastic about anything,UNSW Dass42.pdf,True,I was unable to become enthusiastic about anything
+DASS_Q32,32,Q32A,S,1,I found it difficult to tolerate interruptions to what I was doing,UNSW Dass42.pdf,True,I found it difficult to tolerate interruptions to what I was doing
+DASS_Q33,33,Q33A,S,1,I was in a state of nervous tension,UNSW Dass42.pdf,True,I was in a state of nervous tension
+DASS_Q34,34,Q34A,D,1,I felt I was pretty worthless,UNSW Dass42.pdf,True,I felt I was pretty worthless
+DASS_Q35,35,Q35A,S,1,I was intolerant of anything that kept me from getting on with what I was doing,UNSW Dass42.pdf,True,I was intolerant of anything that kept me from getting on with what I was doing
+DASS_Q36,36,Q36A,A,1,I felt terrified,UNSW Dass42.pdf,True,I felt terrified
+DASS_Q37,37,Q37A,D,1,I could see nothing in the future to be hopeful about,UNSW Dass42.pdf,True,I could see nothing in the future to be hopeful about
+DASS_Q38,38,Q38A,D,1,I felt that life was meaningless,UNSW Dass42.pdf,True,I felt that life was meaningless
+DASS_Q39,39,Q39A,S,1,I found myself getting agitated,UNSW Dass42.pdf,True,I found myself getting agitated
+DASS_Q40,40,Q40A,A,1,I was worried about situations in which I might panic and make a fool of myself,UNSW Dass42.pdf,True,I was worried about situations in which I might panic and make a fool of myself
+DASS_Q41,41,Q41A,A,1,"I experienced trembling (eg, in the hands)",UNSW Dass42.pdf,True,"I experienced trembling (eg, in the hands)"
+DASS_Q42,42,Q42A,D,1,I found it difficult to work up the initiative to do things,UNSW Dass42.pdf,True,I found it difficult to work up the initiative to do things

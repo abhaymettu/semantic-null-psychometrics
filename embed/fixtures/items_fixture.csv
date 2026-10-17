@@ -1,0 +1,13 @@
+item_id,scale,text
+FX01,fx_energy,I often feel tired during the day.
+FX02,fx_energy,During the day I frequently feel worn out.
+FX03,fx_energy,I rarely feel tired during the day.
+FX04,fx_energy,I have plenty of energy for the things I want to do.
+FX05,fx_social,I enjoy meeting new people.
+FX06,fx_social,I do not like being around groups of strangers.
+FX07,fx_social,Talking with friends lifts my mood.
+FX08,fx_social,I would rather spend the evening alone than at a party with people I have never met.
+FX09,fx_order,I keep my desk neat and organised.
+FX10,fx_order,I never finish the tasks I start.
+FX11,fx_order,I plan my week in advance.
+FX12,fx_order,My belongings are usually scattered and hard to find.

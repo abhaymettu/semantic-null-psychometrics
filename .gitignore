@@ -1,0 +1,12 @@
+data/cache/
+.cache/
+.venv/
+*.egg-info/
+__pycache__/
+.pytest_cache/
+
+# never commit locally rebuilt real-data outputs
+data/cache/
+data/aggregates/
+integration/out/
+figs/
