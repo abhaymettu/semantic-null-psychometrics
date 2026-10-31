@@ -8,6 +8,12 @@
 
 Wording enters a likelihood model of the response covariance as a fixed kernel, and the test is an item-label permutation null that reruns the whole fit. The question is therefore whether the kernel's item correspondence matters, not only whether two similarity matrices correlate.
 
+**Result:** on the DASS-42 (n = 34,583) with three embedding models, the real item wording beats all 100 permutations of the item labels and predicts items left out of fitting. What it cannot give is the share of the structure that is wording: with every item keyed the same way, that share is not identified.
+
+[![Observed item correlations on the DASS-42, grouped by scale](https://abhaymettu.com/images/work/semantic-null.png)](https://abhaymettu.com/research/semantic-null/)
+
+Write-up: [abhaymettu.com/research/semantic-null](https://abhaymettu.com/research/semantic-null/)
+
 **Paper:** Mettu, A. (2026). *Item wording and the covariance of self-report items: a shape-alignment test, held-out items and an identification limit*. Working paper, version 1. Zenodo. [https://doi.org/10.5281/zenodo.23437721](https://doi.org/10.5281/zenodo.23437721)
 
 
